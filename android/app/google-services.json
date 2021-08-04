@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23619746394",
+    "project_id": "meet2-7a49a",
+    "storage_bucket": "meet2-7a49a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23619746394:android:940d5dee1a6da881e7b663",
+        "android_client_info": {
+          "package_name": "com.example.my_meet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23619746394-tsneeu2ckg1a619sr63048npq6eomc47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDocX-x8cGBIXw1cDbKntpwzoInJuhNrys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23619746394-tsneeu2ckg1a619sr63048npq6eomc47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
